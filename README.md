@@ -129,5 +129,6 @@ Full product documentation:
 - Architecture
 - AI Systems
 - Product Learnings
+- User Research
 
 See the doc folder for full details.
