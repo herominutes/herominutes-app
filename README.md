@@ -126,5 +126,7 @@ Full product documentation:
 - Product Requirements
 - Pricing Strategy
 - Investor Overview
+- Architecture
+- AI Systems
 
 See the doc folder for full details.
