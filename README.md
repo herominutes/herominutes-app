@@ -114,3 +114,17 @@ The production codebase is maintained in a private repository due to security, p
 ## Vision
 
 Herominutes explores how AI-native product design can improve real-world recovery experiences for athletes and help individuals return to performance faster, safer, and with greater confidence.
+
+---
+
+## Documentation
+
+Full product documentation:
+
+- Product Strategy
+- Product Roadmap
+- Product Requirements
+- Pricing Strategy
+- Investor Overview
+
+See the doc folder for full details.
