@@ -29,7 +29,7 @@ Herominutes explores tiered AI generation that adjusts the depth of recommendati
 
 Demo video:
 
-[YOUR LINK HERE](https://www.linkedin.com/posts/activity-7430878634623610880-17Aa?)
+[DEMO LINK](https://www.linkedin.com/posts/activity-7430878634623610880-17Aa?)
 
 ---
 
