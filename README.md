@@ -2,9 +2,35 @@
 
 AI-powered injury recovery and mobility platform designed to help athletes track recovery progress, follow structured rehabilitation workflows, and safely return to performance.
 
-##Live Demo
+---
 
-https://www.linkedin.com/posts/activity-7430878634623610880-17Aa?
+## Core Features
+
+Herominutes is designed around several core product capabilities that support athletes throughout the injury recovery journey.
+
+### AI-Powered Recovery Programs
+Personalized injury recovery programs generated using a multi-specialist AI system designed to guide athletes safely through rehabilitation.
+
+### Stretching & Mobility Flows
+Guided stretching and mobility routines designed to improve flexibility, reduce stiffness, and support long-term recovery.
+
+### Pain Feedback System
+Daily pain check-ins allow the platform to adapt exercises and recovery guidance based on how the athlete feels.
+
+### Gamified Recovery Progress
+Streaks, leveling systems, and progress milestones help athletes stay consistent with rehabilitation routines.
+
+### Adaptive AI Guidance
+Herominutes explores tiered AI generation that adjusts the depth of recommendations based on user progression and recovery complexity.
+
+---
+
+## Live Demo
+
+Demo video:
+
+[YOUR LINK HERE](https://www.linkedin.com/posts/activity-7430878634623610880-17Aa?)
+
 ---
 
 ## Overview
@@ -114,6 +140,29 @@ The production codebase is maintained in a private repository due to security, p
 ## Vision
 
 Herominutes explores how AI-native product design can improve real-world recovery experiences for athletes and help individuals return to performance faster, safer, and with greater confidence.
+
+---
+
+## Tech Stack
+
+Herominutes is built as a modern full-stack Progressive Web Application.
+
+Frontend
+• React  
+• TypeScript  
+• TailwindCSS  
+• Progressive Web App (PWA)
+
+Backend
+• Node.js  
+• Express
+
+Infrastructure
+• Supabase (Postgres, Auth, Storage)
+
+AI System
+• Multi-specialist AI architecture  
+• Tiered generation (fast / medium / deep reasoning)
 
 ---
 
